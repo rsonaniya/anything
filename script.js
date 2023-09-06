@@ -7,7 +7,3 @@ box2.addEventListener("click",()=>{
 alert("box2 has been clicked")
 })
 
-let box3 = document.getElementById("box3");
-box3.addEventListener("click",()=>{
-alert("box3 has been clicked")
-})
